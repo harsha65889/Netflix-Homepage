@@ -1,0 +1,2 @@
+# BHARAT_INTERN_Netflixpage
+This project painstakingly reproduces Netflix's appearance and functionality through the combined powers of HTML, CSS, and JavaScript. It provides an invaluable platform to hone web development skills while authentically emulating a beloved website.
